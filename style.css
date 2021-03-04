@@ -1,0 +1,72 @@
+body{
+	margin:0;
+	padding:0;
+	background:#fff;
+	font-family: 'Raleway',sans-serif;
+	color: #fff;
+}
+
+.navbar-brand{
+	color: #fff;
+	font-size:xx-large;
+	font-weight: 700;
+	margin-left: 5px;
+    font-family: cursive;
+  }
+
+  .navbar{
+      font-size: 1.15rem;
+      font-weight: 600;
+      letter-spacing: .1rem;
+      /* box-shadow: 0.5rem 0.5rem rgb(177, 174, 174); */
+  }
+
+  .nav-item{
+      padding: 0.5rem;
+    
+}
+
+.carousel-inner{
+  
+  max-height: 38rem!important;
+}
+
+.jumbotron{
+   background-color: rgb(223, 217, 217);
+}
+
+.container-fluid{
+    background-color: black;
+    color:white;
+
+}
+h2{
+    font-weight: 500;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 0.01rem;
+}
+
+.container{
+    text-align: center;
+
+}
+
+.btn{
+    border: none;
+    color:white;
+    background-color: black;
+    width: 100%;
+    height: 50px;
+    flex: left;
+}
+
+.text{
+    font-size: xx-large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
